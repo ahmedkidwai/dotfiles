@@ -42,6 +42,12 @@ echo "Installing Git"
 sudo apt-get install git
 echo "Git Installed"
 
+# Install Discord
+echo "Installing Discord"
+sudo snap install discord
+echo "Discord Installed"
+
+
 
 
 
