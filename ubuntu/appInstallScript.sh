@@ -37,8 +37,10 @@ sudo snap install spotify
 echo "Spotify Installed"
 
 
-
-
+# Install Git
+echo "Installing Git"
+sudo apt-get install git
+echo "Git Installed"
 
 
 
